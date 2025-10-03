@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 <div align="center">
 
@@ -23,93 +23,91 @@
 > **"Every bug, every build, every breakthrough — I live for it"**  
 > **"Fuelled by curiosity, driven by creativity"**
 
-```javascript
-const siddaram = {
-  pronouns: "he" | "him",
-  code: ["Python", "JavaScript", "Java", "C++", "HTML", "CSS"],
-  frameworks: ["React", "Node.js", "Flask", "Spring Boot"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL"],
-  tools: ["Git", "Docker", "VS Code", "Postman", "Figma"],
-  interests: ["Artificial Intelligence", "Machine Learning", "Web Development"],
-  currentFocus: "Building innovative solutions that make a difference",
-  funFact: "I turn coffee into code ☕ → 💻"
-};
-</div>
-🛠️ Tech Stack & Skills
-<div align="center">
-💻 Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-🚀 Frameworks & Libraries
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-
-🗄️ Databases
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-
-🛠️ Tools & Platforms
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
 </div>
-📊 GitHub Analytics
-<div align="center"><!-- GitHub Stats --><img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BCD4" /><!-- GitHub Streak --><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddaram2k25&theme=radical&hide_border=true&background=0D1117&stroke=00BCD4&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" /></div>
-🎯 Featured Projects
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-🤖 AI & Machine Learning
-https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge
-https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge
-
-🌐 Web Applications
-https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge
-https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge
-
-🎮 Fun & Games
-https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BCD4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddaram2k25&theme=radical&hide_border=true&background=0D1117&stroke=00BCD4&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" />
 </div>
-🏆 Achievements & Certifications
-<div align="center">
-https://img.shields.io/badge/Infosys-Java_Foundation-orange?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/MongoDB-Java_Developer-green?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Microsoft-Generative_AI-blue?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Adobe-Hackathon_Winner-red?style=for-the-badge&logo=adobe&logoColor=white
 
-</div>
-📫 Let's Connect!
-<div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+---
 
-</div>
-<div align="center">
-⚡ Quick Facts About Me
-🎯 Currently Learning: Advanced React & Node.js
+## 🎯 Featured Projects
 
-🔭 Working On: AI-powered personal assistant
+### 🤖 AI & Machine Learning
+![Netflix Recommender](https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge) 
+![AI Chatbot](https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge)
+![Swasthya AI](https://img.shields.io/badge/%F0%9F%8C%90-Swasthya_AI-00BCD4?style=for-the-badge)
 
-🌱 Exploring: Machine Learning & Deep Learning
+### 🌐 Web Applications
+![Hospital Management](https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge) 
+![Bus Booking System](https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge)
 
-💬 Ask me about: Web Development, Python, Java
+### 🎮 Fun & Games
+![KBC Quiz Game](https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge)
 
-📫 Reach me at: siddugoranal540@gmail.com
+---
 
-Thanks for visiting! Remember:
+## 🏆 Achievements & Certifications
 
-"The beautiful thing about learning is that no one can take it away from you"
+![Infosys Java Foundation](https://img.shields.io/badge/Infosys-Java_Foundation-orange?style=for-the-badge&logo=java&logoColor=white) 
+![MongoDB Java Dev](https://img.shields.io/badge/MongoDB-Java_Developer-green?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Microsoft Generative AI](https://img.shields.io/badge/Microsoft-Generative_AI-blue?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Adobe Hackathon Winner](https://img.shields.io/badge/Adobe-Hackathon_Winner-red?style=for-the-badge&logo=adobe&logoColor=white)  
+![Odoo Hackathon](https://img.shields.io/badge/Odoo_x_NMIT-Hackathon_2025-purple?style=for-the-badge&logo=odoo&logoColor=white)  
+![IBM Data Fundamentals](https://img.shields.io/badge/IBM-Data_Fundamentals-0A74DA?style=for-the-badge&logo=ibm&logoColor=white)
 
+---
+
+## 📫 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddugoranal540@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddaram2k25)
+
+---
+
+## ⚡ Quick Facts About Me
+- 🎯 Currently Learning: Advanced React & Node.js  
+- 🔭 Working On: AI-powered personal assistant  
+- 🌱 Exploring: Machine Learning & Deep Learning  
+- 💬 Ask me about: Web Development, Python, Java  
+- 📫 Reach me at: **siddugoranal540@gmail.com**
+
+> "The beautiful thing about learning is that no one can take it away from you"  
 ⭐ Don't forget to star my repositories if you find them interesting!
-
-</div> ```
