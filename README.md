@@ -70,16 +70,25 @@
 ## 🎯 Featured Projects
 
 ### 🤖 AI & Machine Learning
-[![🎬 Netflix Recommender](https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/netflix-recommender)  
-[![🤖 AI Chatbot](https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/ai-chatbot)  
-[![🌐 Swasthya AI](https://img.shields.io/badge/%F0%9F%8C%90-Swasthya_AI-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/swasthya-ai)
+[![🎬 Netflix Recommender](https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/Netflix-Database-Analysis-DVP1)
+
+[![🤖 AI Chatbot](https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/Resume-Shortlisting-AI)
+
+[![🌐 Swasthya AI](https://img.shields.io/badge/%F0%9F%8C%90-Swasthya_AI-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/SWASTYA_AI_)
+
 
 ### 🌐 Web Applications
-[![🏥 Hospital Management](https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/hospital-management)  
-[![🚌 Bus Booking System](https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/bus-booking-system)
+[![🏥 Hospital Management](https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/ECOFINDS)
 
-### 🎮 Fun & Games
-[![🎯 KBC Quiz Game](https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/kbc-quiz-game)
+[![🚌 Bus Booking System](https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/SimpleBusTicket-PHP)
+
+[![💼 Portfolio Website](https://img.shields.io/badge/%F0%9F%8E%A8-Portfolio_Website-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/portfolio)
+
+
+[![🎯 KBC Quiz Game](https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/first-pr-nmit)
+
+[![📊 Netflix Data Analysis](https://img.shields.io/badge/%F0%9F%93%8A-Netflix_Data_Analysis-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/Netflix-Database-Analysis-DVP1)
+
 
 ---
 
