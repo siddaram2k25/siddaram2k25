@@ -70,16 +70,16 @@
 ## 🎯 Featured Projects
 
 ### 🤖 AI & Machine Learning
-![Netflix Recommender](https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge) 
-![AI Chatbot](https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge)
-![Swasthya AI](https://img.shields.io/badge/%F0%9F%8C%90-Swasthya_AI-00BCD4?style=for-the-badge)
+[![🎬 Netflix Recommender](https://img.shields.io/badge/%F0%9F%8E%AC-Netflix_Recommender-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/netflix-recommender)  
+[![🤖 AI Chatbot](https://img.shields.io/badge/%F0%9F%A4%96-AI_Chatbot-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/ai-chatbot)  
+[![🌐 Swasthya AI](https://img.shields.io/badge/%F0%9F%8C%90-Swasthya_AI-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/swasthya-ai)
 
 ### 🌐 Web Applications
-![Hospital Management](https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge) 
-![Bus Booking System](https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge)
+[![🏥 Hospital Management](https://img.shields.io/badge/%F0%9F%8F%A5-Hospital_Management-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/hospital-management)  
+[![🚌 Bus Booking System](https://img.shields.io/badge/%F0%9F%9A%8C-Bus_Booking_System-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/bus-booking-system)
 
 ### 🎮 Fun & Games
-![KBC Quiz Game](https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge)
+[![🎯 KBC Quiz Game](https://img.shields.io/badge/%F0%9F%8E%AF-KBC_Quiz_Game-00BCD4?style=for-the-badge)](https://github.com/siddaram2k25/kbc-quiz-game)
 
 ---
 
