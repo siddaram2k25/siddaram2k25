@@ -64,22 +64,14 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
-
-## 📊 GitHub Statistics
-
+📊 GitHub Statistics
 <div align="center">
-
-### 🏆 GitHub Stats
-![Siddaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&langs_count=8)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddaram2k25&theme=radical)
-
-</div>
-
+🏆 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=siddaram2k25&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+📈 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&langs_count=8" />
+🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddaram2k25&theme=radical" /> </div>
 ---
 
 ## 🏆 Featured Projects
