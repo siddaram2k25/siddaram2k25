@@ -72,8 +72,6 @@
 ### 📈 Most Used Languages  
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siddaram2k25&layout=compact&theme=radical&langs_count=8)
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=siddaram2k25&theme=radical&hide_border=false&border_radius=5)
 
 
 
