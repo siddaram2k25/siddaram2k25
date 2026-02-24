@@ -124,7 +124,8 @@
 | **Infosys Java Foundation** | Infosys Springboard | 2023 | ✅ Completed |
 | **MongoDB Java Developer** | MongoDB University | 2023 | ✅ Completed |
 | **Microsoft Generative AI** | Microsoft Learn | 2024 | ✅ Completed |
-| **Adobe Hackathon Winner** | Adobe & NMIT | 2023 | 🏆 Winner |
+| **OSCode Code Sih Winner** | OSCode | 2025 | 🏆 Winner |
+| **Adobe Hackathon Winner** | Adobe & NMIT | 2023 | 🏆 Participant |
 | **Odoo Hackathon 2025** | Odoo Community | 2025 | 🎯 Finalist |
 | **IBM Data Fundamentals** | IBM SkillsBuild | 2023 | ✅ Completed |
 | **Google Cloud Fundamentals** | Google Cloud | 2024 | ✅ Completed |
